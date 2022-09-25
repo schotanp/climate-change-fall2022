@@ -8,11 +8,11 @@ parent: Assignment Instructions
 # Intro to GitHub and Markdown
 Quick inks to lessons on this page 
 - [Introduction](#1-introduction)
-- [Using GitHub](2-using-github)
-- [Create and manage a repository](3-create-and-manage-a-repository)
-- [Learning Markdown](4-learning-markdown)
-- [(optional) Adding scientific symbols and equations](5-optional-adding-scientific-symbols-and-equations)
-- [(optional) Creating webpages with GitHub Pages](6-optional-creating-webpages-with-github-pages)
+- [Using GitHub](#2-using-github)
+- [Create and manage a repository](#3-create-and-manage-a-repository)
+- [Learning Markdown](#4-learning-markdown)
+- [(optional) Adding scientific symbols and equations](#5-optional-adding-scientific-symbols-and-equations)
+- [(optional) Creating webpages with GitHub Pages](#6-optional-creating-webpages-with-github-pages)
 
 ## 1. Introduction
 
