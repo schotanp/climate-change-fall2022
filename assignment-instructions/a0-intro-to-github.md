@@ -127,7 +127,6 @@ One of the really nice things about GitHub (and GitHub Pages, which you'll learn
 ### 4.1 Lesson objectives 
 - Learn about Markdown
 - Practice creating web-ready content with Markdown
-- Learn how to create special symbols and equations using HTML code
 
 ### Video
 <!--
@@ -181,7 +180,7 @@ Using the [Mastering Markdown guide](https://guides.github.com/features/masterin
 - [Daring Fireball's Markdown Introduction](https://daringfireball.net/projects/markdown/)
 
 ## 5. (optional) Adding scientific symbols and equations
-While the simplicity of Markdown is usually an asset, there are times when you need to present text using more complex formatting--for example, when using symbols and equations. Given that these pieces aren't baked into Markdown, you'll need to resort to using HTML coding. This involves a bit more technical skill, but it's something that you can figure out pretty quickly with the help of Google. 
+In this lesson, you will learn how to create and insert scientific symbols and equations into Markdown documents using HTML. While the simplicity of Markdown is usually an asset, there are times when you need to present text using more complex formatting--for example, when using symbols and equations. Thankfully, Markdown documents accommodate HTML, so whenever you hit a limitation with it, you can use HTML instead. This involves a bit more technical skill, but it's something that you can figure out pretty quickly with the help of Google. 
 
 ### 5.1 Symbols
 
