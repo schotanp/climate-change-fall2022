@@ -229,7 +229,7 @@ In this optional add-on exercise, you'll learn how to use GitHub Pages to turn t
 
 ### 6.1 Explore features and settings | Set up GitHub Pages
 In this lesson, we'll explore some of the functionality available in a GitHub repository and show you how to get started with [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/about-github-pages)
-- Ensure that you've created at least one Markdown file in the ```docs``` folder (```index.md``` and one other), as outlined in the previous lessons.
+- Ensure that you've created at least one Markdown file in the ```docs``` folder (```index.md``` and one other, if you completed Lesson 5), as outlined in the previous lessons.
 - See Jay's video where he explains the various features (tabs) that are available within a repository
 - Open the Settings Tab. Follow along with Jay as he explains the various pages
 - On the left-hand side of the **Settings** page, scroll down and click the **Pages** tab
@@ -294,9 +294,11 @@ Jekyll [web page](https://jekyllrb.com/) and Jekyll project [on GitHub](https://
 ### 6.4 Embedding videos and other web content
 As you've already experienced, the nice thing about jekyll is that it doesn't just accept Markdown--it also accepts HTML code, meaning that you can insert things like embed codes to insert multimedia content.
 - Find a video on YouTube that you want to embed into your webpage. Once it begins playing, right click and click on ```Copy embed code```. You should have copied to your clipboard something like this: 
+
 ```
 <iframe width="1487" height="691" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
+
 - Paste the embed code into your Markdown document. **COMMIT** your changes.
   - **NOTE**: The embedded video won't show in your rendered Markdown file--it will only appear on your final webpage. 
   - **NOTE**: Remember that it may take a couple of minutes for changes to propagate from your GitHub repo to your webpage.
