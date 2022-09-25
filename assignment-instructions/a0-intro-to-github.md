@@ -233,7 +233,7 @@ In this lesson, we'll explore some of the functionality available in a GitHub re
 - See Jay's video where he explains the various features (tabs) that are available within a repository
 - Open the Settings Tab. Follow along with Jay as he explains the various pages
 - On the left-hand side of the **Settings** page, scroll down and click the **Pages** tab
-  - For **Source**, select **main branch /docs folder** (note you could also pick the *master branch* option, but not for this example.)
+  - For **Source**, select **main branch /docs folder**
   - Click **Choose a theme** to select a theme for your web page
 - Congratulations, your website is ready. The link will be provided in the GitHub Pages section.
   - You may initially receive a 404 error, but after a minute, your website will appear with the content from ```index.md``` as the landing page.
