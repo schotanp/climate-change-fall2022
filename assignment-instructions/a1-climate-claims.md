@@ -11,8 +11,8 @@ Individual Assignment #1
 
 |Date Assigned|2022-09-26|
 |:--|:--|
-|Date Due|2022-10-23|
-|Weight|5 points|
+|**Date Due**|**2022-10-23**|
+|**Weight**|**5 points**|
 
 ## Introduction
 A quick perusal of the comments left beneath any mainstream media article relating to climate change demonstrates the diversity and range of public opinions on the subject. The views of the so-labeled “climate deniers/skeptics” and “climate alarmists” seem to persist, despite what appears to be an overwhelming agreement among qualified scientists and subject experts, as well as authoritative reports like the [IPCC Fifth Assessment Report (AR5)](https://www.ipcc.ch/report/ar5/syr/) and [Sixth Assessment Report (AR6)](https://www.ipcc.ch/report/ar6/wg1/). In many ways, the current informational environment around climate change resembles that of the recent COVID-19 pandemic, where expertise, analyses, predictions, and policies are questioned daily. 
