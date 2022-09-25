@@ -7,7 +7,7 @@ parent: Assignment Instructions
 
 # Intro to GitHub and Markdown
 
-[Introduction](#introduction)
+[Introduction](#1-introduction)
 []
 
 ## 1. Introduction
@@ -19,7 +19,7 @@ In this tutorial, you will learn how to use GitHub and Markdown together to:
 - (optional) Create and publish a webpage that documents your work in this module with only a minimal amount of HTML knowledge.
 - Complete your individual assignments
 
-### Learning objectives
+### 1.1 Learning objectives
 
 By the end of this tutorial, you will be able to: 
 - Create a GitHub repository (from scratch and by cloning/forking an existing one)
@@ -29,26 +29,36 @@ By the end of this tutorial, you will be able to:
 - *Bonus:* Use GitHub Pages to create simple static web pages using jekyll
 - Identify where you can find more information to experiment and learn on your own
 
-### What is GitHub? How does it relate to this course and science?
+### 1.2 What is GitHub? How does it relate to this course and science?
 1. Watch the following video "What is GitHub?"
 <iframe height="480" width="853" src="https://www.youtube.com/embed/w3jLJU7DT5E" title="What is GitHub?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 2. Watch Jay's introductory video 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c0de6282-a6c3-4c0e-899c-37d6ee92a008/public?autoplay=false&automute=false"></iframe>
 
-3. Create a GitHub account (if you don't have one)
-	- Navigate to [GitHub](https://github.com) and sign up for an account if you don't already have one. 
-	- After registering, sign in to your account.
+### 1.3 Create a GitHub account (if you don't have one)
+- Navigate to [GitHub](https://github.com) and sign up for an account if you don't already have one. 
+- After registering, sign in to your account.
 
+### 1.4 Connect your GitHub account with our GitHub Classroom
+We will use GitHub for all individual assignments in this project, using a tool called [GitHub Classroom](https://classroom.github.com/). At the beginning of the assignment, jay will provide you a link to create your personal assignment repository (pre-populated with guidance material); you will do your work in this repository and its contents will be evaluated as your assignment submission. **You will not submit any of your individual assignments through Avenue.**
 
-## 2. Lesson 1 Working with GitHub
+To enable this, you must connect your GitHub account with your name in our project classroom. This will be done in the next lesson.  
 
-### Lesson objectives 
-- Get a GitHub account 
-- 
-- Create a GitHub repository.
+## 2. Using GitHub
+### 2.1 Lesson objectives 
+- Create a GitHub repository by cloning an existing one.
+- Get familiar with the interface and common terminology
 - Create folders and files.
-- Edit a markdown file.
+
+### 2.2 Clone a repo; Connect your GitHub account to GitHub Classroom
+- Click [this link](https://classroom.github.com/a/p8fc537S) to clone the repository for this module. Cloning allows you to make a personal copy of someone else's repository (Jay's in this case), so that you can pick up where they left off.  
+- If this is the first time you've used this link, you'll first be prompted to connect your GitHub account to your name in our GitHub Classroom
+<img src="join-the-classroom.png" alt="dialog box prompting user to select their name from a list" width="350" style="border: 1px solid darkgrey">
+- In the following window, select to **accept the assignment**. 
+<img src="accept-assignment.png" alt="dialog box prompting user to accept an assignment" width="350" style="border: 1px solid darkgrey">
+- When the **you're ready to go** screen appears, click the link to go to your repository. Rather than being created in your GitHub account, this repository is created in the iSci-3A12 organization (though you have edit rights to it). Your repository URL will be of the form: ```https://github.com/iSci-3A12/isci3a12-a0-github-fundamentals-<yourGitHubUsername>```
+- **Important Note**: For reasons unknown to me, your GitHub Classroom repositories won't show up in your GitHub account's repository list. If you want to see all of your assignment repositories, go to https://github.com/settings/repositories. 
+
 
 ### Video 
 <iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/8400ca29-233e-4660-b6c6-c935208b0f0b?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
