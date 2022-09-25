@@ -15,6 +15,7 @@ Quick inks to lessons on this page
 - [(optional) Creating webpages with GitHub Pages](#6-optional-creating-webpages-with-github-pages)
 
 ## 1. Introduction
+This page outlines and demonstrates the activities that you should complete prior to creating your submission for your first individual assignment (Climate Claims). 
 
 In this tutorial, you will learn how to use GitHub and Markdown together to: 
 - Document your work, store your files and code, and share content with collaborators and the public.
