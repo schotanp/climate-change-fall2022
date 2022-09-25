@@ -63,7 +63,7 @@ To enable this, you must connect your GitHub account with your name in our proje
 <img src="accept-assignment.png" alt="dialog box prompting user to accept an assignment" width="350" style="border: 1px solid darkgrey">
 
 - When the **you're ready to go** screen appears, click the link to go to your repository. Rather than being created in your GitHub account, this repository is created in the iSci-3A12 organization (though you have edit rights to it). Your repository URL will be of the form: ```https://github.com/iSci-3A12/isci3a12-a0-github-fundamentals-<yourGitHubUsername>```
-- **Important Note**: For reasons unknown to me, your GitHub Classroom repositories won't show up in your GitHub account's repository list. If you want to see all of your assignment repositories, go to https://github.com/settings/repositories. 
+- **Important Note**: For reasons unknown to me, your GitHub Classroom repositories won't show up in your GitHub account's repository list. If you want to see all of your assignment repositories, go to [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 
 ### 2.3 Follow along with Jay's introductory video
 Here, Jay will demonstrate the steps laid out above, and explain some of the features within a GitHub repository.
