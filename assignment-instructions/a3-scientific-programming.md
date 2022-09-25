@@ -11,8 +11,8 @@ Individual Assignment #2
 
 |Date Assigned|2022-11-07|
 |:--|:--|
-|Date Due|2022-11-27|
-|Weight|5 points|
+|**Date Due**|**2022-11-27**|
+|**Weight**|**5 points**|
 
 ## Introduction
 Scientific computing--using computer algorithms to solve scientific problems--plays an important role in research for many modern scientific disciplines. By developing computer programs that collect, refine, analyze, and visualize experimental data, scientists are able to explore new scientific hypotheses and broaden their understanding of physical phenomena and relationships. Even in cases where datasets are small and relatively straightforward, using scripted, programming approaches can greatly improve the efficiency and reproducibility of scientific analysis.
