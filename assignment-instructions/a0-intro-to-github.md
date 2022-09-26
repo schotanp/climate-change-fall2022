@@ -67,10 +67,8 @@ To enable this, you must connect your GitHub account with your name in our proje
 - **Important Note**: For reasons unknown to me, your GitHub Classroom repositories won't show up in your GitHub account's repository list. If you want to see all of your assignment repositories, go to [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 
 ### 2.3 Follow along with Jay's introductory video
-Here, Jay will demonstrate the steps laid out above, and explain some of the features within a GitHub repository.
-<!--
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c0de6282-a6c3-4c0e-899c-37d6ee92a008/public?autoplay=false&automute=false"></iframe>
---> 
+Here, Jay will demonstrate the steps laid out above, and explain some of the features within a GitHub repository.  
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/9ac8e0a7-9c8d-4629-b22c-4dba80ff2b26/public?autoplay=false&automute=false"></iframe>
 
 ### 2.4 Work through the introduction in your repository's README.md file
 Read through the introduction provided in the Markdown document ```README.md``` in your new repository. This will provide a basic introduction on working with GitHub repositories. 
@@ -83,9 +81,7 @@ In this lesson, you will learn to:
 - Edit a text file; commit changes
 
 ### Video
-<!--
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c0de6282-a6c3-4c0e-899c-37d6ee92a008/public?autoplay=false&automute=false"></iframe>
---> 
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/30e9eec4-0842-467d-a7d4-aeb0560a4dcb/public?autoplay=false&automute=false"></iframe>
 
 ### 3.2 Create a new GitHub repository
 As explained in the previous lesson, a repository is a container for related materials (i.e. folders and files), that allows for them to be managed (stored, version-tracked) and shared. Usually, you create a separate repository for each project that you are working on. [Here are the New York Times' GitHub repositories](https://github.com/nytimes), for example. 
@@ -129,9 +125,7 @@ One of the really nice things about GitHub (and GitHub Pages, which you'll learn
 - Practice creating web-ready content with Markdown
 
 ### Video
-<!--
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/23ac1e94-9f53-4ca2-b986-478e30eea5f7/public?autoplay=false&automute=false"></iframe>
---> 
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/e1598fb8-45ce-4dcc-9de3-e6b3a39d8581/public?autoplay=false&automute=false"></iframe>
 
 ### 4.2 What is Markdown? 
 Borrowed shamelessly from Github's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) page: 
@@ -223,9 +217,7 @@ nav_order: 2
 In this optional add-on exercise, you'll learn how to use GitHub Pages to turn the markdown content in your GitHub repository into a functioning webpage.
 
 ### Video
-<!--
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/95c3bd16-1812-4431-9c0b-2904e578b96a/public?autoplay=false&automute=false"></iframe>
---> 
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c620fa4d-670f-4539-891b-83642e2e2d12/public?autoplay=false&automute=false"></iframe>
 
 ### 6.1 Explore features and settings | Set up GitHub Pages
 In this lesson, we'll explore some of the functionality available in a GitHub repository and show you how to get started with [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/about-github-pages)
