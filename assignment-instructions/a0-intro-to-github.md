@@ -233,14 +233,14 @@ In this lesson, we'll explore some of the functionality available in a GitHub re
 - See Jay's video where he explains the various features (tabs) that are available within a repository
 - Open the Settings Tab. Follow along with Jay as he explains the various pages
 - On the left-hand side of the **Settings** page, scroll down and click the **Pages** tab
-  - For **Source**, select **main branch /docs folder**
-  - Click **Choose a theme** to select a theme for your web page
+  - For **Source**, select **Deploy from a branch*** 
+  - For **Branch**, select **main branch** and for **folder**, select ```/docs```
 - Congratulations, your website is ready. The link will be provided in the GitHub Pages section.
-  - You may initially receive a 404 error, but after a minute, your website will appear with the content from ```index.md``` as the landing page.
-**NOTE**: By default, GitHub Pages expects at least one file in the ```docs``` folder named ```index.md```. This file becomes the main (home) page for the web page.
+  - You may initially receive a 404 error, but after a minute, your website will appear with the content from ```index.md``` as the landing page (as index.html).
+  - **NOTE**: By default, GitHub Pages expects at least one file in the ```docs``` folder named ```index.md```. This file becomes the main (home) page for the web page.
 
 ### 6.2 Customize pages | What is jekyll?
-You may have noticed by now that there is another file (```_config.yml```) in your ```docs``` folder that you didn't create or put there. This is your configuration file, and it's written in a language called [YAML](https://en.wikipedia.org/wiki/YAML). The ```config.yml``` file was created at the time that you turned on GitHub pages, and it provides instructions to a static site generator software called [jekyll](https://jekyllrb.com/). GitHub pages uses jekyll in the background to convert your Markdown file(s) to formatted HTML to display as web pages. 
+What has been created for you is a pretty simple page. If you want to change the look and feel of this site, you can do this by adding a file named ```_config.yml``` into your ```docs``` folder (or whichever folder on your repository where you published your website) and adding information to it. ```_config.yml``` is your configuration file, and it's written in a language called [YAML](https://en.wikipedia.org/wiki/YAML). The ```config.yml``` provides instructions to a static site generator software called [jekyll](https://jekyllrb.com/). GitHub pages uses jekyll in the background to convert your Markdown file(s) to formatted HTML to display as web pages. 
 
 There is ***a lot*** that you can do with *jekyll* (within GitHub Pages and as a standalone application on your computer) to generate customized webpages. While only the theme information is set in your file initially, there are many ways that you can [customize](https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll#default-plugins) it. Here, we'll make a few simple ones:
 - Use the GitHub editor to edit your ```_config.yml``` file.
@@ -269,8 +269,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "View this content on GitHub"
 gh_edit_repository: "https://github.com/iSci-3A12/intro-github-markdown" # EDIT: ADD THE URL TO YOUR GITHUB REPO
-gh_edit_branch: "master" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
+gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Include plugins for relative links and a remote theme
