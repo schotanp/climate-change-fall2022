@@ -163,7 +163,7 @@ Using the [Mastering Markdown guide](https://guides.github.com/features/masterin
 
 ### 4.5 Some Notes
 - Use the **Preview changes** tab to see (mostly) how it will look on your page. 
-- Markdown doesn't add new lines to a document in the same way as a document editors like MS Word. Sometimes you might hit enter to start a new line in the editor, only to find that it has been added to the first paragraph when rendered. To avoid this you can try one of the following: 
+- Markdown doesn't add new lines to a document in the same way as a document editor like MS Word. Sometimes you might hit enter to start a new line in the editor, only to find that it has been added to the first paragraph when rendered. To avoid this you can try one of the following: 
   - Enter an extra blank line
   - Leave two blank spaces at the end of the sentence (this is interpretted as the end of a paragraph)
   - Insert the HTML tag ```<br>``` to create a break line in the rendered text. You can use multiple to create more blank lines.  
