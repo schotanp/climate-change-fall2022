@@ -38,7 +38,7 @@ By the end of this tutorial, you will be able to:
 1. Watch the following video "What is GitHub?"
 <iframe height="480" width="853" src="https://www.youtube.com/embed/w3jLJU7DT5E" title="What is GitHub?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 2. Watch Jay's introductory video 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c0de6282-a6c3-4c0e-899c-37d6ee92a008/public?autoplay=false&automute=false"></iframe>
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c7b45e80-77a7-4ab9-b438-9856417388d5/public?autoplay=false&automute=false"></iframe>
 
 ### 1.3 Create a GitHub account (if you don't have one)
 - Navigate to [GitHub](https://github.com) and sign up for an account if you don't already have one. 
