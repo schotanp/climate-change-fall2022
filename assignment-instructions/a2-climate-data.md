@@ -275,6 +275,6 @@ The following slide illustrates how to calculate an anomaly from your station ti
 ## 9. Demo
 I've carried out this demonstration using Google Sheets, though the process would be mostly similar in MS Excel. If you would like to see a video showing the same steps in Excel, please let me know. 
 <br>
-To follow along with this demo, please make a copy of the demo station data by clicking this link: https://bit.ly/CC2022-CDADemo. Note that the demo uses a different link, but both point to the same file. 
+To follow along with this demo, please make a copy of the demo station data by clicking this link: [https://bit.ly/CC2022-CDADemo](https://bit.ly/CC2022-CDADemo). Note that the demo uses a different link, but both point to the same file. 
 
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/2b5888b9-220b-49b7-a8e0-e9d470a2e6ff/public?autoplay=false&automute=false"></iframe>
