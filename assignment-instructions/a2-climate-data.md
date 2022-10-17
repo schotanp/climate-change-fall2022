@@ -27,7 +27,14 @@ As is the case with most science disciplines, analyzing and presenting data is a
 Just as it is important to critically assess the methods used to gain an understanding of a phenomenon, it is equally important to scrutinize the way in which results are presented to the reader through graphics. Creating graphs is to some extent a subjective process, and the choices made in displaying information can significantly impact the audience’s resulting understanding and opinions.
 
 ## 2. Objectives
-In this assignment, you will work with actual, measured climate data to better understand trends in regional and global climate, while simultaneously improving your analytical and graphic composition skills. Specifically, it is desired that this assignment will:
+In this assignment, you will work with actual, measured climate data to better understand trends in regional and global climate, while simultaneously improving your analytical and graphic composition skills. 
+<br>
+<br>
+- **In the first part** of this assignment, you will use Microsoft Excel (or another analytical tool of your choice) to perform an analysis on a >100 year time series of data from a specific weather station (each student is assigned a different one) as well the global average. You will turn your analyses into a figure that communicates trends in temperature at both scales.  
+- **In the second part**, you will have an opportunity to play the role of a climate denier by manipulating presentation of the global temperature time series (but not the actual data) to minimize or refute the observed upward trend. 
+- **In the last part**, you will be given freedom to conduct novel analyses using some of the datasets that you have been provided (these are described in the [Materials and Data](#4-materials-and-data) section. 
+<br>
+In terms of skill and knoweldge development, it is intended that this assignment will:
 - provide you with experience and guidance making quality scientific figures.
 - increase your appreciation for the importance of figure presentation in conveying a message to an audience.
 - familiarize you with climate data and time series analysis.
@@ -53,7 +60,7 @@ A variety of datasets have been downloaded and prepared for use in this assignme
 - This folder contains comma-separated (csv) text files, each consisting of monthly mean temperature measurements for a weather station somewhere in the world. **This is the primary data you will use for this assignment**. 
   - **Each student has been assigned a different station for the purposes of this assignment**--station assignments are outlined in ```assigned_stations.pdf``` in the repository. 
 - This data has been downloaded from the NASA Goddard Institute for Space Studies [GISS Surface Temperature Analysis (v4) Station Data](https://data.giss.nasa.gov/gistemp/station_data_v4_globe/) dataset. These datasets were selected for this assignment because they a) span at least 100 years, b) are of high data quality (i.e. have relatively few missing values), and c) collectively, they cover as much of the globe as possible. Note that large regions of the world are still absent from these selected datasets due to poor quality time series in these areas. 
-- Data is recorded in hundredths of a degree (i.e. you need to divide values by 100 to get to degrees celcius). **Missing monthly values are represented as -9999 in the data**. As such, you must decide how to handle bad/missing data to ensure that presented data is accurate, representative, and not misleading. 
+- Data is recorded in hundredths of a degree (i.e. you need to divide values by 100 to get to degrees celcius). **Missing monthly values are represented as ```-9999``` in the data**. As such, you must decide how to handle bad/missing data to ensure that presented data is accurate, representative, and not misleading. 
 
 ### 4.2 Hadley Centre Central England Temperature (CET) Data - Daily and Monthly
 - Located in ```/data/CET/```
@@ -120,6 +127,41 @@ A variety of datasets have been downloaded and prepared for use in this assignme
 	- Column 7: Definitive/provisional marker. '1' indicates that the value is definitive. '0' indicates that the value is still provisional.
 
 ## 5. Tasks
+In your submission file, you will create a report with **3 figures, 1 table, and 2 question responses**. These can be inserted into the ```submission.md``` file that has already been created for you in your cloned repository. Your tasks for this assignment are described below: 
+### Figure 1
+- Plot the annual temperature anomaly time series for your assigned station (in the /station_data/ subdirectory), along with the annual global anomaly temperature anomaly time series. Both series should be plotted as an anomaly from their respective 1951-1980 means (our chosen baseline period). Plot a trend for each time series, using a trend line or a moving average (you have freedom to choose either). 
+- Export your figure from Excel as a PNG file and title it ```station-timeseries.png```
+- Insert this figure into your ```submission.md``` document. Add a descriptive caption and be sure to indicate the baseline period (1951-1980) in it.
+### Table 1
+- Create a table displaying the annual and seasonal average temperatures at your site for the past 40 years of measurement, as well as for all previous years in the time series. To create seasonal averages, you should group data from successive three-month periods. e.g.:
+	- JFM = average of: Jan, Feb, Mar
+	- AMJ =  average of: Apr, May, Jun
+	- JAS =  average of: July, Aug, Sep
+	- OND =  average of: Oct, Nov, Dec
+	- Annual =  average of all months for the year
+- For each grouped period, calculate a two-sample t-test to test whether the mean temperature over the past 40 years of available data is significantly different than that from before. Use a significance value of 𝛼 = 0.05.
+- Your final table should be structured in the following manner: 
+	- 5 Columns: ```| JFM | AMJ | JAS | OND | Annual |```
+	- 3 Rows: 
+		- Mean T, (in °C) for the last 40 years of available data (most timeseries end in 2021, some end a couple of years earlier)
+		- Mean T, (in °C) for the years before the last 40 (there should be no overlap in years) 
+		- ΔT, (in °C), or differences in seasonal/annual means from the last 40 years and the previous years (i.e. row 1 – row 2)
+		- Significant differences should be bolded and indicated with a trailing plus sign (e.g. 0.331+)
+		- The table should have a descriptive title at the top, and a note at the bottom proclaiming: ***"+" denotes significant difference at significance level 𝛼=0.05***
+
+### Question 1: Considering the results shown in Figure 1 and Table 1, summarize how temperatures have (or have not) changed at your assigned station. What are the limitations of your analysis? (150 words or less).
+
+### Figure 2
+- Assuming the role of a “climate denier”, create a new figure and modify the presentation of the global temperature anomaly time series to present it in a manner that would support your cause. You are not allowed to falsify the data (i.e. no fabricated or altered data), but you can certainly alter the figure’s presentation to suit your needs.
+- Export your figure from Excel as a PNG file and title it ```climate-denier.png```
+- Insert this figure into your ```submission.md``` document. Add a descriptive caption and be sure to indicate the baseline period (1951-1980) in it.
+
+### Figure 3
+- For this figure, you are asked to perform a more in-depth analysis of your data, and look for relationships within it, or relationships with other variables. You can choose between two general approaches: 
+	1. Compare your timeseries (using monthly, seasonal, or annual averages) to any of the other available time series in the Data Pack (or from other sources if you wish), to establish relationships between the two timeseries.  NOTE that you are exploring relationships between two variables (e.g. global temperature anomaly and sunspots), and that plotting two line plots together is a poor form of comparison.
+	1. **OR** Use other forms of analyses to examine any of the time series in more depth (e.g. spectral analysis, autocorrelation analysis).  Feel free to be creative.  The only restriction is that you may not construct a simple line plot of the time series (as you’ve already done in Figures 1 and 2).
+
+
 
 ## 6. Assessment Rubric
 <img src="a2-rubric.png" alt="Assessment rubric" width="700" style="border: 1px solid darkgrey">
