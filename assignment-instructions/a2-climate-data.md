@@ -12,9 +12,7 @@ parent: Assignment Instructions
 - [4. Materials and Data](#4-materials-and-data)
 - [5. Tasks](#5-tasks)
 - [6. Assessment Rubric](#6-assessment-rubric)
-- 
-
-
+- [7. Making Quality Figures](#7-making-quality-figures)
 
 # Analyzing and Visualizing Climate Data
 iSci 3A12 - Climate Change – Fall 2022  
@@ -175,7 +173,7 @@ What parts of this assignment did you find most difficult (and/or time consuming
 ## 6. Assessment Rubric
 <img src="a2-rubric.png" alt="Assessment rubric" width="700" style="border: 1px solid darkgrey">
 
-## 7. Making Quality Graphs
+## 7. Making Quality Figures
 The following text is meant to provide you guidance when making scientific figures--whether for this assignment, or later in your academic career.
 
 ### 7.1 Initial considerations
