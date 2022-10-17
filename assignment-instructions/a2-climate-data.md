@@ -29,7 +29,7 @@ In this assignment, you will work with actual, measured climate data to better u
 ## 3. Submission Details
 As with your first assignment, your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document. Materials for this assignment (as well as a template markdown submission file) are provided to you in the GitHub repository that is created for you in GitHub Classrooms when you click [this link](https://classroom.github.com/a/4gwsqZa3) and clone the repository. To get prepared, you should: 
 1. Create your repository for this assignment at this url: [https://classroom.github.com/a/4gwsqZa3](https://classroom.github.com/a/4gwsqZa3).
-  - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a2-climate-data-<yourgithubname>```
+  - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a2-climate-data-<yourgithubname>```)
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 2. Read the rest of this instruction document (information about datasets are included in the repository's README.md file, as well. 
 3. Open up the ```submission.md``` in your assignment repository--**This is where you will complete your assignment**. While in edit mode, note the additional comments that are added to the document (enclosed by ```<!--``` and ```-->``` characters). These comments provide extra information to you that are not visible in the renderend markdown file.
@@ -65,7 +65,7 @@ A variety of datasets have been downloaded and prepared for use in this assignme
 - ```cet-min-monthly.dat```: Monthly minimum temperatures for months since 1878.
 
 ### 4.3 GISS Annual Global Surface Temperature (GISS) 
-- Located in in /data/global_temperature/
+- Located in in ```/data/global_temperature/```
 - Spatially-averaged estimates of global surface temperature.  All data downloaded from: https://data.giss.nasa.gov/gistemp/graphs_v4/
 - ```GISS_MeanSfcTemp.txt```: Global Land-Ocean Temperature Index (degrees C; Anomaly with Base: 1951-1980) 
 	- **Use this for a global average when comparing to your station**. 
