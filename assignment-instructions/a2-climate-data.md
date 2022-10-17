@@ -243,7 +243,7 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 	- Not typically used in publications. In presentations, you would typically use a title at the top of the slide, but not on the figure.
 
 ## 8. Calculating Anomalies
-A temperature anomaly is a departure of a measured value from a reference or long-term average temperature. It can be calculated on many different timescales (day, week, year, decade, etc.) and is useful for visualizing trends and deviation from a mean value. Temperature anomalies are used commonly to convey information related to climate change, as removing the mean values makes it easier to compare between different regions and periods. 
+A temperature anomaly is a departure of a measured value from a reference or long-term average temperature. It can be calculated on many different timescales (day, week, year, decade, etc.) and is useful for visualizing trends and deviation from a mean value. Temperature anomalies are used commonly to convey information related to climate change, as removing the mean values makes it easier to compare between different regions and periods. It also makes regional averages less sensitive to the inclusion or exclusion of certain stations. [Learn more about anomalies](https://www.ncei.noaa.gov/access/monitoring/dyk/anomalies-vs-temperature).
 
 <img src="Slide1.png" alt="Line graph of measured temperature values and bar graph of temperature presented as an anomaly" width="700" style="border: 1px solid darkgrey">
 
