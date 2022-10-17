@@ -256,6 +256,7 @@ The following slide illustrates how to calculate an anomaly from your station ti
 1. Begin with actual values
 1. Identify a reference period (1951 - 1980 for our purposes)
 1. Calculate the reference period mean (ignoring missing values)
-1. Subtract the reference period mean from actual values
+1. Subtract the reference period mean from each of the actual values for the **entire time series** (not just 1951-1980)
+	- You will now have a time series that shows temperature as a deviation from the average value between 1951 and 1980.
 
 <img src="Slide3.png" alt="Line graph demonstrating how to create an anomaly" width="700" style="border: 1px solid darkgrey">
