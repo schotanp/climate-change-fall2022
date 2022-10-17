@@ -22,6 +22,7 @@ Individual Assignment #2
 - [5. Tasks](#5-tasks)
 - [6. Assessment Rubric](#6-assessment-rubric)
 - [7. Making Quality Figures](#7-making-quality-figures)
+- [8. Calculating Anomalies](#8-calculating-anomalies)
 
 ## 1. Introduction
 As is the case with most science disciplines, analyzing and presenting data is a critical task in climate change science. The ultimate purpose of these activities is to construct and convey information as objectively and clearly as possible. To identify and characterize underlying physical processes, a great deal of data are collected as time series--which are unique from other sampled data in that the order of the observations is an important characteristic. Analyses of time series often focus on variables’ time-related correlation (e.g. trends, cycles, etc.), and results are commonly communicated to external audiences--whether scientific or otherwise—using graphic devices such as charts, graphs, and tables. 
@@ -240,3 +241,8 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 	- The caption should explain the data presented in the graph as well as any abbreviations used, and should link the symbol/line features with their corresponding variable.
 - Title
 	- Not typically used in publications. In presentations, you would typically use a title at the top of the slide, but not on the figure.
+
+## 8. Calculating Anomalies
+A temperature anomaly is a departure of a measured value from a reference or long-term average temperature. It can be calculated on many different timescales (day, week, year, decade, etc.) and is useful for visualizing trends and deviation from a mean value. Temperature anomalies are commonly used to convey information related to climate change 
+
+Temperature anomalies are a common measure in climate science. 
