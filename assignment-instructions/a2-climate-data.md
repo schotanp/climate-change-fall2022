@@ -13,6 +13,9 @@ parent: Assignment Instructions
 - [5. Tasks](#5-tasks)
 - [6. Assessment Rubric](#6-assessment-rubric)
 - 
+
+
+
 # Analyzing and Visualizing Climate Data
 iSci 3A12 - Climate Change – Fall 2022  
 Individual Assignment #2
@@ -171,3 +174,69 @@ What parts of this assignment did you find most difficult (and/or time consuming
 
 ## 6. Assessment Rubric
 <img src="a2-rubric.png" alt="Assessment rubric" width="700" style="border: 1px solid darkgrey">
+
+## 7. Making Quality Graphs
+The following text is meant to provide you guidance when making scientific figures--whether for this assignment, or later in your academic career.
+
+### 7.1 Initial considerations
+Not all visualizations are created equal. Just because a chart or map makes sense to you (or has been suggested by sophisticated software) doesn't mean that it will be effective in communicating your message to the intended audience. When creating a visualization, here are a few key considerations to keep in mind:
+1. **What is your message?** What information are you trying to communicate to your audience? If you had to summarize the 'point' of the figure in two sentences, what would it be? Keep your message in mind while you design your visualization. 
+1. **Who is your intended audience?** For whom are you making this visualization? What do they already understand about the topic or the information that you are presenting? What is the best way to communicate with them?
+1. **What is the context?** Where is this visualization being presented? What additional information is being presented alongside it (in the same article, website, etc.)? How much contextualizing information do you need to provide so that the visualization 'stands on its own'?
+1. **How will visual elements be interpreted?** The way in which humans interpret visual elements depends on a combination of basic cognitive responses, as well as learned behaviour. As such, it's important to consider that interpretations or responses to visualizations can differ between communities and cultures. For example, think about how the colour red is commonly interpreted: How might the use of red affect the way a visualization is interpreted? 
+1. **How can you maximize clarity?** Clarity over content. Your goal when creating a visualization is to convey your message using only the elements that are necessary. This will vary depending on the nature of your *message*, the *intended audience*, the *context*, and the *visual elements* you are using. Approach your visualizations a bit like Marie Kondo: *If an element of your figure does not add to the intended message, simplify it or remove it altogether*. 
+
+### 7.2 Figure elements
+#### Background
+Colour
+- Usually white or none
+Grid
+- Use if interpreting graph benefits from reference grid. Otherwise, avoid
+- If using a grid, space grid lines sparingly with appropriate thickness
+
+#### Axes
+Orientation
+- Independent variable: x-axis. Dependent variable: y-axis
+Labels
+- State variable name and units
+- Proper Font Size. Sometimes it is good to output the graph to the final size and see if label sizes are appropriate
+Axes Scale
+- Choose an appropriate scale for your axes. Includes the entire range of data and try to keep the axes fairly tight around the data range. In cases where two series have very different ranges, consider using a secondary axis, or placing the series in separate plots.
+Axes lines
+- Appropriate axes line thickness
+- Having a complete box around axes vs. only x- and y-axes mostly a matter of preference
+Tick Marks
+- Tick marks should be spaced far enough apart to avoid cluttering the axes. Use a sensible interval for number of points between tick marks.
+Tick Labels
+- Tick labels should be clear and easily readable. Leave some white space between labels. It's usually not necessary to label every tick mark. If using a regular scale (which you most likely are), readers will likely be able to interpolate values for tick marks that don't have labels for label intervals <5. Follow same rules for font size as with axes labels.
+- Labels are usually presented horizontally in time series graphs.
+Secondary Y-Axes
+- Can be very useful when showing two variables with different units/scales
+#### Data
+Markers (symbols)
+- Useful to make individual measurement values stand out, but may cause cluttering if used in a regular time series with closely-spaced points. Necessary for scatterplots
+- Vary shape, size, fill color, outline color to suit purpose and differentiate series.
+- Size of markers should be appropriate to the amount of information in the graph, as well as the scale of the axes (e.g. a big marker on a condensed scale can make the point seem to span many values)
+Lines
+- Useful for regular time series with closely-spaced points. Also useful for regressions, trend lines, confidence intervals, etc.
+- Vary thickness, colour (RGB or shades of grey), pattern (solid, stippled, dashed, etc.) to suit purpose and differentiate series. 
+- The acceptable number of lines on a single graph varies by the nature of the lines and the purpose ofthe graph. For example, if comparing a number of time series that are quite different, it may be suitable to show many series on the same graph (e.g. graph 3-1 in the IPCC AR4 synthesis report showing different projected emissions scenarios).
+Colour
+- The use of colour in your graph depends on your desired effect, the medium of presentation, and how the audience will be accessing your graph.
+	- e.g.1 Many scholarly journals now accept colour figures, though some still require greyscale.
+	- e.g.2 Colour may be useful in presentations/articles, but may cause visibility problems if they will be printed and viewed in black & white.
+- If using colour, be very cognizant of the effect your colours are having on your presentation. Too many colours (especially bright colours) can actually detract from the appearance of the graph. Also be aware that some colours are more likely to evoke specific emotions
+	- e.g. Using red can attract attention and signal alert, extremes or danger.
+#### Description
+Legend
+- In most cases where more than one variable is plotted on a graph, it is very helpful to the reader to have a legend for quick reference
+- Where possible, avoid a box around the legend – place in an open area of the graph (this may require adjusting your axes)
+- Be as concise as possible in legend descriptions – keep in mind that you'll also get to explain the data (and identify it) in the caption
+- Similar rules follow for font size as previously mentioned
+Caption
+- The purpose of a caption is to compliment, explain and provide context to all the other elements ofthe graph.
+- Usually includes a figure number.
+- Caption appears at the bottom of the graph.
+- The caption should explain the data presented in the graph as well as any abbreviations used, and should link the symbol/line features with their corresponding variable.
+Title
+- Not typically used in publications. In presentations, you would typically use a title at the top of the slide, but not on the figure.
