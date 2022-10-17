@@ -31,11 +31,14 @@ As is the case with most science disciplines, analyzing and presenting data is a
 <br>
 Just as it is important to critically assess the methods used to gain an understanding of a phenomenon, it is equally important to scrutinize the way in which results are presented to the reader through graphics. Creating graphs is to some extent a subjective process, and the choices made in displaying information can significantly impact the audience’s resulting understanding and opinions.
 
+### 1.1 Introductory Video
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/d8446af8-9bdb-4071-bc67-ce829da1fd4b/public?autoplay=false&automute=false"></iframe>
+
 ## 2. Objectives
 In this assignment, you will work with actual, measured climate data to better understand trends in regional and global climate, while simultaneously improving your analytical and graphic composition skills. 
 <br>
 <br>
-- **In the first part** of this assignment, you will use Microsoft Excel (or another analytical tool of your choice) to perform an analysis on a >100 year time series of data from a specific weather station (each student is assigned a different one) as well the global average. You will turn your analyses into a figure that communicates trends in temperature at both scales.  
+- **In the first part** of this assignment, you will use Google Sheets or Microsoft Excel (or another analytical tool of your choice) to perform an analysis on a >100 year time series of data from a specific weather station (each student is assigned a different one) as well the global average. You will turn your analyses into a figure that communicates trends in temperature at both scales.  
 - **In the second part**, you will have an opportunity to play the role of a climate denier by manipulating presentation of the global temperature time series (but not the actual data) to minimize or refute the observed upward trend. 
 - **In the last part**, you will be given freedom to conduct novel analyses using some of the datasets that you have been provided (these are described in the [Materials and Data](#4-materials-and-data) section. 
 <br>
@@ -137,7 +140,7 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 Before getting started, ensure that you've created the assignment repository, as described in the [Submission Details section](#3-submission-details-and-preparation).
 ### Figure 1
 - Plot the annual temperature anomaly time series for your assigned station (in the /station_data/ subdirectory), along with the annual global anomaly temperature anomaly time series. Both series should be plotted as an anomaly from their respective 1951-1980 means (our chosen baseline period). Plot a trend for each time series, using a trend line or a moving average (you have freedom to choose either). 
-- Export your figure from Excel as a PNG file and title it ```station-timeseries.png```
+- Export your figure from Google Sheets or Excel as a PNG file and title it ```station-timeseries.png```
 - Insert this figure into your ```submission.md``` document. Add a descriptive caption and be sure to indicate the baseline period (1951-1980) in it.
 ### Table 1
 - Create a table displaying the annual and seasonal average temperatures at your site for the past 40 years of measurement, as well as for all previous years in the time series. To create seasonal averages, you should group data from successive three-month periods. e.g.:
@@ -161,7 +164,7 @@ Considering the results shown in Figure 1 and Table 1, summarize how temperature
 
 ### Figure 2
 - Assuming the role of a “climate denier”, create a new figure and modify the presentation of the global temperature anomaly time series to present it in a manner that would support your cause. You are not allowed to falsify the data (i.e. no fabricated or altered data), but you can certainly alter the figure’s presentation to suit your needs.
-- Export your figure from Excel as a PNG file and title it ```climate-denier.png```
+- Export your figure from Google Sheets or Excel as a PNG file and title it ```climate-denier.png```
 - Insert this figure into your ```submission.md``` document. Add a descriptive caption and be sure to indicate the baseline period (1951-1980) in it.
 
 ### Figure 3
@@ -270,3 +273,8 @@ The following slide illustrates how to calculate an anomaly from your station ti
 <img src="Slide3.png" alt="Line graph demonstrating how to create an anomaly" width="700" style="border: 1px solid darkgrey">
 
 ## 9. Demo
+I've carried out this demonstration using Google Sheets, though the process would be mostly similar in MS Excel. If you would like to see a video showing the same steps in Excel, please let me know. 
+<br>
+To follow along with this demo, please make a copy of the demo station data by clicking this link: https://bit.ly/CC2022-CDADemo. Note that the demo uses a different link, but both point to the same file. 
+
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/2b5888b9-220b-49b7-a8e0-e9d470a2e6ff/public?autoplay=false&automute=false"></iframe>
