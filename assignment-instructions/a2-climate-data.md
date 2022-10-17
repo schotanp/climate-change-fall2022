@@ -17,7 +17,7 @@ Individual Assignment #2
 ## Contents
 - [1. Introduction](#1-introduction)
 - [2. Objectives](#2-objectives)
-- [3. Submission Details](#3-submission-details-and-preparation)
+- [3. Submission Details and Preparation](#3-submission-details-and-preparation)
 - [4. Materials and Data](#4-materials-and-data)
 - [5. Tasks](#5-tasks)
 - [6. Assessment Rubric](#6-assessment-rubric)
@@ -49,7 +49,8 @@ As with your first assignment, your submission will take the form of a [Markdown
 1. Create your repository for this assignment at this url: [https://classroom.github.com/a/4gwsqZa3](https://classroom.github.com/a/4gwsqZa3).
   - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a2-climate-data-<yourgithubname>```)
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
-2. Read the rest of this instruction document (information about datasets are included in the repository's README.md file, as well. 
+2. Read the rest of this instruction document and your new repository's README.md file, as well. 
+3. You will need to download some of your repository's files to work on them 
 4. Follow the steps outlined below in the [Tasks](#5-Tasks) section. 
 5. Following the due date, Jay will download the repositories to be marked. 
 
