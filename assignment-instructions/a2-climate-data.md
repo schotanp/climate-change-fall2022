@@ -17,7 +17,7 @@ Individual Assignment #2
 ## Contents
 - [1. Introduction](#1-introduction)
 - [2. Objectives](#2-objectives)
-- [3. Submission Details](#3-submission-details)
+- [3. Submission Details](#3-submission-details-and-preparation)
 - [4. Materials and Data](#4-materials-and-data)
 - [5. Tasks](#5-tasks)
 - [6. Assessment Rubric](#6-assessment-rubric)
@@ -44,7 +44,7 @@ In terms of skill and knoweldge development, it is intended that this assignment
 - further your understanding of the nature of global and regional climate change.
 - advance your GitHub and Markdown skills to embed your figures and tables in a web-ready document.
 
-## 3. Submission Details
+## 3. Submission Details and Preparation
 As with your first assignment, your submission will take the form of a [Markdown](https://www.markdownguide.org/getting-started/) document. Materials for this assignment (as well as a template markdown submission file) are provided to you in the GitHub repository that is created for you in GitHub Classrooms when you click [this link](https://classroom.github.com/a/4gwsqZa3) and clone the repository. To get prepared, you should: 
 1. Create your repository for this assignment at this url: [https://classroom.github.com/a/4gwsqZa3](https://classroom.github.com/a/4gwsqZa3).
   - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a2-climate-data-<yourgithubname>```)
@@ -131,7 +131,7 @@ A variety of datasets have been downloaded and prepared for use in this assignme
 ## 5. Tasks
 In your submission file, you will create a report with **3 figures, 1 table, and 2 question responses**. These can be inserted into the ```submission.md``` file that has already been created for you in your cloned repository. Your tasks for this assignment are described below. 
 <br>
-Before getting started, ensure that you've created the assignment repository, as described in the [Submission Details section](#3-submission-details).
+Before getting started, ensure that you've created the assignment repository, as described in the [Submission Details section](#3-submission-details-and-preparation).
 ### Figure 1
 - Plot the annual temperature anomaly time series for your assigned station (in the /station_data/ subdirectory), along with the annual global anomaly temperature anomaly time series. Both series should be plotted as an anomaly from their respective 1951-1980 means (our chosen baseline period). Plot a trend for each time series, using a trend line or a moving average (you have freedom to choose either). 
 - Export your figure from Excel as a PNG file and title it ```station-timeseries.png```
