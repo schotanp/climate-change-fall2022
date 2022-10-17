@@ -189,13 +189,18 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 1. **How can you maximize clarity?** Clarity over content. Your goal when creating a visualization is to convey your message using only the elements that are necessary. This will vary depending on the nature of your *message*, the *intended audience*, the *context*, and the *visual elements* you are using. Approach your visualizations a bit like Marie Kondo: *If an element of your figure does not add to the intended message, simplify it or remove it altogether*. 
 
 ### 7.2 Figure elements
-#### Background
+
+**Background**
+<br>
 - Colour
 	- Usually white or none
 - Grid
 	- Use if interpreting graph benefits from reference grid. Otherwise, avoid
 	- If using a grid, space grid lines sparingly with appropriate thickness
-#### Axes
+<br>
+
+**Axes**
+<br>
 - Orientation
 	- Independent variable: x-axis. Dependent variable: y-axis
 - Labels
@@ -213,7 +218,10 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 	- Labels are usually presented horizontally in time series graphs.
 - Secondary Y-Axes
 	- Can be very useful when showing two variables with different units/scales
-#### Data
+<br>
+
+**Data**
+<br>
 - Markers (symbols)
 	- Useful to make individual measurement values stand out, but may cause cluttering if used in a regular time series with closely-spaced points. Necessary for scatterplots
 	- Vary shape, size, fill color, outline color to suit purpose and differentiate series.
@@ -228,7 +236,10 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 		- e.g.2 Colour may be useful in presentations/articles, but may cause visibility problems if they will be printed and viewed in black & white.
 	- If using colour, be very cognizant of the effect your colours are having on your presentation. Too many colours (especially bright colours) can actually detract from the appearance of the graph. Also be aware that some colours are more likely to evoke specific emotions
 		- e.g. Using red can attract attention and signal alert, extremes or danger.
-#### Description
+<br>
+
+**Description** 
+<br>
 - Legend
 	- In most cases where more than one variable is plotted on a graph, it is very helpful to the reader to have a legend for quick reference
 	- Where possible, avoid a box around the legend – place in an open area of the graph (this may require adjusting your axes)
