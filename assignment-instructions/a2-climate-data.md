@@ -6,12 +6,12 @@ parent: Assignment Instructions
 ---
 
 ## Contents
-- [1. Introduction](#1.-introduction)
-- [2. Objectives](#2.-objectives)
-- [3. Submission Details](#3.-submission-details)
-- [4. Materials and Data](#4.-materials-and-data)
-- [5. Tasks](#5.-tasks)
-- [6. Assessment Rubric](#6.-assessment-rubric)
+- [1. Introduction](#1-introduction)
+- [2. Objectives](#2-objectives)
+- [3. Submission Details](#3-submission-details)
+- [4. Materials and Data](#4-materials-and-data)
+- [5. Tasks](#5-tasks)
+- [6. Assessment Rubric](#6-assessment-rubric)
 - 
 # Analyzing and Visualizing Climate Data
 iSci 3A12 - Climate Change – Fall 2022  
@@ -41,7 +41,7 @@ As with your first assignment, your submission will take the form of a [Markdown
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 2. Read the rest of this instruction document (information about datasets are included in the repository's README.md file, as well. 
 3. Open up the ```submission.md``` in your assignment repository--**This is where you will complete your assignment**. While in edit mode, note the additional comments that are added to the document (enclosed by ```<!--``` and ```-->``` characters). These comments provide extra information to you that are not visible in the renderend markdown file.
-4. Follow the steps outlined below in the [Tasks](#Tasks) section. 
+4. Follow the steps outlined below in the [Tasks](#5-Tasks) section. 
 5. Following the due date, Jay will download the repositories to be marked. 
 
 ## 4. Materials and Data
