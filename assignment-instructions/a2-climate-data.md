@@ -186,55 +186,54 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 
 ### 7.2 Figure elements
 #### Background
-Colour
-- Usually white or none  
-Grid
-- Use if interpreting graph benefits from reference grid. Otherwise, avoid
-- If using a grid, space grid lines sparingly with appropriate thickness
-
+- Colour
+	- Usually white or none
+- Grid
+	- Use if interpreting graph benefits from reference grid. Otherwise, avoid
+	- If using a grid, space grid lines sparingly with appropriate thickness
 #### Axes
-Orientation
-- Independent variable: x-axis. Dependent variable: y-axis  
-Labels
-- State variable name and units
-- Proper Font Size. Sometimes it is good to output the graph to the final size and see if label sizes are appropriate  
-Axes Scale
-- Choose an appropriate scale for your axes. Includes the entire range of data and try to keep the axes fairly tight around the data range. In cases where two series have very different ranges, consider using a secondary axis, or placing the series in separate plots.  
-Axes lines
-- Appropriate axes line thickness
-- Having a complete box around axes vs. only x- and y-axes mostly a matter of preference  
-Tick Marks
-- Tick marks should be spaced far enough apart to avoid cluttering the axes. Use a sensible interval for number of points between tick marks.  
-Tick Labels
-- Tick labels should be clear and easily readable. Leave some white space between labels. It's usually not necessary to label every tick mark. If using a regular scale (which you most likely are), readers will likely be able to interpolate values for tick marks that don't have labels for label intervals <5. Follow same rules for font size as with axes labels.
-- Labels are usually presented horizontally in time series graphs.  
-Secondary Y-Axes
-- Can be very useful when showing two variables with different units/scales
+- Orientation
+	- Independent variable: x-axis. Dependent variable: y-axis
+- Labels
+	- State variable name and units
+	- Proper Font Size. Sometimes it is good to output the graph to the final size and see if label sizes are appropriate  
+- Axes Scale
+	- Choose an appropriate scale for your axes. Includes the entire range of data and try to keep the axes fairly tight around the data range. In cases where two series have very different ranges, consider using a secondary axis, or placing the series in separate plots.  
+- Axes lines
+	- Appropriate axes line thickness
+	- Having a complete box around axes vs. only x- and y-axes mostly a matter of preference  
+- Tick Marks
+	- Tick marks should be spaced far enough apart to avoid cluttering the axes. Use a sensible interval for number of points between tick marks.  
+- Tick Labels
+	- Tick labels should be clear and easily readable. Leave some white space between labels. It's usually not necessary to label every tick mark. If using a regular scale (which you most likely are), readers will likely be able to interpolate values for tick marks that don't have labels for label intervals <5. Follow same rules for font size as with axes labels.
+	- Labels are usually presented horizontally in time series graphs.  
+- Secondary Y-Axes
+	- Can be very useful when showing two variables with different units/scales
 #### Data
-Markers (symbols)
-- Useful to make individual measurement values stand out, but may cause cluttering if used in a regular time series with closely-spaced points. Necessary for scatterplots
-- Vary shape, size, fill color, outline color to suit purpose and differentiate series.
-- Size of markers should be appropriate to the amount of information in the graph, as well as the scale of the axes (e.g. a big marker on a condensed scale can make the point seem to span many values)  
-Lines
-- Useful for regular time series with closely-spaced points. Also useful for regressions, trend lines, confidence intervals, etc.
-- Vary thickness, colour (RGB or shades of grey), pattern (solid, stippled, dashed, etc.) to suit purpose and differentiate series. 
-- The acceptable number of lines on a single graph varies by the nature of the lines and the purpose ofthe graph. For example, if comparing a number of time series that are quite different, it may be suitable to show many series on the same graph (e.g. graph 3-1 in the IPCC AR4 synthesis report showing different projected emissions scenarios).  
-Colour
-- The use of colour in your graph depends on your desired effect, the medium of presentation, and how the audience will be accessing your graph.
-	- e.g.1 Many scholarly journals now accept colour figures, though some still require greyscale.
-	- e.g.2 Colour may be useful in presentations/articles, but may cause visibility problems if they will be printed and viewed in black & white.
-- If using colour, be very cognizant of the effect your colours are having on your presentation. Too many colours (especially bright colours) can actually detract from the appearance of the graph. Also be aware that some colours are more likely to evoke specific emotions
-	- e.g. Using red can attract attention and signal alert, extremes or danger.
+- Markers (symbols)
+	- Useful to make individual measurement values stand out, but may cause cluttering if used in a regular time series with closely-spaced points. Necessary for scatterplots
+	- Vary shape, size, fill color, outline color to suit purpose and differentiate series.
+	- Size of markers should be appropriate to the amount of information in the graph, as well as the scale of the axes (e.g. a big marker on a condensed scale can make the point seem to span many values)  
+- Lines
+	- Useful for regular time series with closely-spaced points. Also useful for regressions, trend lines, confidence intervals, etc.
+	- Vary thickness, colour (RGB or shades of grey), pattern (solid, stippled, dashed, etc.) to suit purpose and differentiate series. 
+	- The acceptable number of lines on a single graph varies by the nature of the lines and the purpose ofthe graph. For example, if comparing a number of time series that are quite different, it may be suitable to show many series on the same graph (e.g. graph 3-1 in the IPCC AR4 synthesis report showing different projected emissions scenarios).  
+- Colour
+	- The use of colour in your graph depends on your desired effect, the medium of presentation, and how the audience will be accessing your graph.
+		- e.g.1 Many scholarly journals now accept colour figures, though some still require greyscale.
+		- e.g.2 Colour may be useful in presentations/articles, but may cause visibility problems if they will be printed and viewed in black & white.
+	- If using colour, be very cognizant of the effect your colours are having on your presentation. Too many colours (especially bright colours) can actually detract from the appearance of the graph. Also be aware that some colours are more likely to evoke specific emotions
+		- e.g. Using red can attract attention and signal alert, extremes or danger.
 #### Description
-Legend
-- In most cases where more than one variable is plotted on a graph, it is very helpful to the reader to have a legend for quick reference
-- Where possible, avoid a box around the legend – place in an open area of the graph (this may require adjusting your axes)
-- Be as concise as possible in legend descriptions – keep in mind that you'll also get to explain the data (and identify it) in the caption
-- Similar rules follow for font size as previously mentioned  
-Caption
-- The purpose of a caption is to compliment, explain and provide context to all the other elements ofthe graph.
-- Usually includes a figure number.
-- Caption appears at the bottom of the graph.
-- The caption should explain the data presented in the graph as well as any abbreviations used, and should link the symbol/line features with their corresponding variable.  
-Title
-- Not typically used in publications. In presentations, you would typically use a title at the top of the slide, but not on the figure.
+- Legend
+	- In most cases where more than one variable is plotted on a graph, it is very helpful to the reader to have a legend for quick reference
+	- Where possible, avoid a box around the legend – place in an open area of the graph (this may require adjusting your axes)
+	- Be as concise as possible in legend descriptions – keep in mind that you'll also get to explain the data (and identify it) in the caption
+	- Similar rules follow for font size as previously mentioned  
+- Caption
+	- The purpose of a caption is to compliment, explain and provide context to all the other elements ofthe graph.
+	- Usually includes a figure number.
+	- Caption appears at the bottom of the graph.
+	- The caption should explain the data presented in the graph as well as any abbreviations used, and should link the symbol/line features with their corresponding variable.  
+- Title
+	- Not typically used in publications. In presentations, you would typically use a title at the top of the slide, but not on the figure.
