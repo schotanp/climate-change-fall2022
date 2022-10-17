@@ -243,12 +243,19 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 	- Not typically used in publications. In presentations, you would typically use a title at the top of the slide, but not on the figure.
 
 ## 8. Calculating Anomalies
-A temperature anomaly is a departure of a measured value from a reference or long-term average temperature. It can be calculated on many different timescales (day, week, year, decade, etc.) and is useful for visualizing trends and deviation from a mean value. Temperature anomalies are commonly used to convey information related to climate change 
-
-Temperature anomalies are a common measure in climate science, as it makes it easier 
+A temperature anomaly is a departure of a measured value from a reference or long-term average temperature. It can be calculated on many different timescales (day, week, year, decade, etc.) and is useful for visualizing trends and deviation from a mean value. Temperature anomalies are used commonly to convey information related to climate change, as removing the mean values makes it easier to compare between different regions and periods. 
 
 <img src="Slide1.png" alt="Line graph of measured temperature values and bar graph of temperature presented as an anomaly" width="700" style="border: 1px solid darkgrey">
 
 <img src="Slide2.png" alt="Bar graph of temperature presented as an anomaly and line graph of temperature presented as an anomaly" width="700" style="border: 1px solid darkgrey">
+
+### How to calculate anomaly
+When analyzing climate time series, anomalies are usually created by selecting a base reference period of at least 30 years and removing its average value from the rest of the series. For the purposes of our analyses, we will use 1951 - 1980 as the reference period. 
+
+The following slide illustrates how to calculate an anomaly from your station time series: 
+1. Begin with actual values
+1. Identify a reference period (1951 - 1980 for our purposes)
+1. Calculate the reference period mean (ignoring missing values)
+1. Subtract the reference period mean from actual values
 
 <img src="Slide3.png" alt="Line graph demonstrating how to create an anomaly" width="700" style="border: 1px solid darkgrey">
