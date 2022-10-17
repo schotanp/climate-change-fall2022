@@ -245,4 +245,10 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 ## 8. Calculating Anomalies
 A temperature anomaly is a departure of a measured value from a reference or long-term average temperature. It can be calculated on many different timescales (day, week, year, decade, etc.) and is useful for visualizing trends and deviation from a mean value. Temperature anomalies are commonly used to convey information related to climate change 
 
-Temperature anomalies are a common measure in climate science. 
+Temperature anomalies are a common measure in climate science, as it makes it easier 
+
+<img src="Slide1.png" alt="Line graph of measured temperature values and bar graph of temperature presented as an anomaly" width="700" style="border: 1px solid darkgrey">
+
+<img src="Slide2.png" alt="Bar graph of temperature presented as an anomaly and line graph of temperature presented as an anomaly" width="700" style="border: 1px solid darkgrey">
+
+<img src="Slide3.png" alt="Line graph demonstrating how to create an anomaly" width="700" style="border: 1px solid darkgrey">
