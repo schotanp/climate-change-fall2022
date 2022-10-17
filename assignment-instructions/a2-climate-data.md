@@ -129,7 +129,9 @@ A variety of datasets have been downloaded and prepared for use in this assignme
 	- Column 7: Definitive/provisional marker. '1' indicates that the value is definitive. '0' indicates that the value is still provisional.
 
 ## 5. Tasks
-In your submission file, you will create a report with **3 figures, 1 table, and 2 question responses**. These can be inserted into the ```submission.md``` file that has already been created for you in your cloned repository. Your tasks for this assignment are described below: 
+In your submission file, you will create a report with **3 figures, 1 table, and 2 question responses**. These can be inserted into the ```submission.md``` file that has already been created for you in your cloned repository. Your tasks for this assignment are described below. 
+<br>
+Before getting started, ensure that you've created the assignment repository, as described in the [Submission Details section](#3-submission-details).
 ### Figure 1
 - Plot the annual temperature anomaly time series for your assigned station (in the /station_data/ subdirectory), along with the annual global anomaly temperature anomaly time series. Both series should be plotted as an anomaly from their respective 1951-1980 means (our chosen baseline period). Plot a trend for each time series, using a trend line or a moving average (you have freedom to choose either). 
 - Export your figure from Excel as a PNG file and title it ```station-timeseries.png```
