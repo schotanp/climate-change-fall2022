@@ -24,6 +24,8 @@ Individual Assignment #2
 
 ## 1. Introduction
 As is the case with most science disciplines, analyzing and presenting data is a critical task in climate change science. The ultimate purpose of these activities is to construct and convey information as objectively and clearly as possible. To identify and characterize underlying physical processes, a great deal of data are collected as time series--which are unique from other sampled data in that the order of the observations is an important characteristic. Analyses of time series often focus on variables’ time-related correlation (e.g. trends, cycles, etc.), and results are commonly communicated to external audiences--whether scientific or otherwise—using graphic devices such as charts, graphs, and tables. 
+<br>
+<br>
 Just as it is important to critically assess the methods used to gain an understanding of a phenomenon, it is equally important to scrutinize the way in which results are presented to the reader through graphics. Creating graphs is to some extent a subjective process, and the choices made in displaying information can significantly impact the audience’s resulting understanding and opinions.
 
 ## 2. Objectives
@@ -47,7 +49,6 @@ As with your first assignment, your submission will take the form of a [Markdown
   - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a2-climate-data-<yourgithubname>```)
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 2. Read the rest of this instruction document (information about datasets are included in the repository's README.md file, as well. 
-3. Open up the ```submission.md``` in your assignment repository--**This is where you will complete your assignment**. While in edit mode, note the additional comments that are added to the document (enclosed by ```<!--``` and ```-->``` characters). These comments provide extra information to you that are not visible in the renderend markdown file.
 4. Follow the steps outlined below in the [Tasks](#5-Tasks) section. 
 5. Following the due date, Jay will download the repositories to be marked. 
 
@@ -147,9 +148,10 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 		- Mean T, (in °C) for the years before the last 40 (there should be no overlap in years) 
 		- ΔT, (in °C), or differences in seasonal/annual means from the last 40 years and the previous years (i.e. row 1 – row 2)
 		- Significant differences should be bolded and indicated with a trailing plus sign (e.g. 0.331+)
-		- The table should have a descriptive title at the top, and a note at the bottom proclaiming: ***"+" denotes significant difference at significance level 𝛼=0.05***
+		- The table should have a descriptive title at the top, and a note at the bottom explaining: ***"+" denotes significant difference at significance level 𝛼=0.05***
 
-### Question 1: Considering the results shown in Figure 1 and Table 1, summarize how temperatures have (or have not) changed at your assigned station. What are the limitations of your analysis? (150 words or less).
+### Question 1: 
+Considering the results shown in Figure 1 and Table 1, summarize how temperatures have (or have not) changed at your assigned station. What are the limitations of your analysis? (150 words or less).
 
 ### Figure 2
 - Assuming the role of a “climate denier”, create a new figure and modify the presentation of the global temperature anomaly time series to present it in a manner that would support your cause. You are not allowed to falsify the data (i.e. no fabricated or altered data), but you can certainly alter the figure’s presentation to suit your needs.
@@ -158,10 +160,14 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 
 ### Figure 3
 - For this figure, you are asked to perform a more in-depth analysis of your data, and look for relationships within it, or relationships with other variables. You can choose between two general approaches: 
-	1. Compare your timeseries (using monthly, seasonal, or annual averages) to any of the other available time series in the Data Pack (or from other sources if you wish), to establish relationships between the two timeseries.  NOTE that you are exploring relationships between two variables (e.g. global temperature anomaly and sunspots), and that plotting two line plots together is a poor form of comparison.
+	1. Compare your timeseries (using monthly, seasonal, or annual averages) to any of the other available time series in the Data Pack (or from other sources if you wish), to establish relationships between the two timeseries.  NOTE that you are exploring relationships between two variables (e.g. global temperature anomaly and sunspots), and that **plotting two line plots together is a poor form of comparison**.
 	1. **OR** Use other forms of analyses to examine any of the time series in more depth (e.g. spectral analysis, autocorrelation analysis).  Feel free to be creative.  The only restriction is that you may not construct a simple line plot of the time series (as you’ve already done in Figures 1 and 2).
 
+### Question 2 
+Referring to Figure 3, explain what is shown, and what can be inferred from it. (100 words or less)
 
+### Bonus Question (optional): 
+What parts of this assignment did you find most difficult (and/or time consuming)?  What data processing/analysis/presentation methods are you most uncertain about, and would question if you were presented these figures as a reader? (less than 100 words; point form is encouraged.)
 
 ## 6. Assessment Rubric
 <img src="a2-rubric.png" alt="Assessment rubric" width="700" style="border: 1px solid darkgrey">
