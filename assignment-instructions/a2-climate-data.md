@@ -191,7 +191,6 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 ### 7.2 Figure elements
 
 **Background**
-<br>
 - Colour
 	- Usually white or none
 - Grid
@@ -200,7 +199,6 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 <br>
 
 **Axes**
-<br>
 - Orientation
 	- Independent variable: x-axis. Dependent variable: y-axis
 - Labels
@@ -221,7 +219,6 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 <br>
 
 **Data**
-<br>
 - Markers (symbols)
 	- Useful to make individual measurement values stand out, but may cause cluttering if used in a regular time series with closely-spaced points. Necessary for scatterplots
 	- Vary shape, size, fill color, outline color to suit purpose and differentiate series.
@@ -239,7 +236,6 @@ Not all visualizations are created equal. Just because a chart or map makes sens
 <br>
 
 **Description** 
-<br>
 - Legend
 	- In most cases where more than one variable is plotted on a graph, it is very helpful to the reader to have a legend for quick reference
 	- Where possible, avoid a box around the legend – place in an open area of the graph (this may require adjusting your axes)
