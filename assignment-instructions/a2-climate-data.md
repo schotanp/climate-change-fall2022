@@ -5,6 +5,14 @@ nav_order: 4
 parent: Assignment Instructions
 ---
 
+## Contents
+- [1. Introduction](#1.-introduction)
+- [2. Objectives](#2.-objectives)
+- [3. Submission Details](#3.-submission-details)
+- [4. Materials and Data](#4.-materials-and-data)
+- [5. Tasks](#5.-tasks)
+- [6. Assessment Rubric](#6.-assessment-rubric)
+- 
 # Analyzing and Visualizing Climate Data
 iSci 3A12 - Climate Change – Fall 2022  
 Individual Assignment #2
