@@ -256,7 +256,7 @@ A temperature anomaly is a departure of a measured value from a reference or lon
 
 <img src="Slide2.png" alt="Bar graph of temperature presented as an anomaly and line graph of temperature presented as an anomaly" width="700" style="border: 1px solid darkgrey">
 
-### How to calculate anomaly
+### 8.1 How to calculate anomaly
 When analyzing climate time series, anomalies are usually created by selecting a base reference period of at least 30 years and removing its average value from the rest of the series. For the purposes of our analyses, we will use 1951 - 1980 as the reference period. 
 
 The following slide illustrates how to calculate an anomaly from your station time series: 
