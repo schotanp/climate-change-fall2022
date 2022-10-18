@@ -34,6 +34,8 @@ Just as it is important to critically assess the methods used to gain an underst
 ### 1.1 Introductory Video
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/d8446af8-9bdb-4071-bc67-ce829da1fd4b/public?autoplay=false&automute=false"></iframe>
 
+**If you are having issues playing the video, use [this link](https://echo360.ca/media/d8446af8-9bdb-4071-bc67-ce829da1fd4b/public) to view it in Echo360.**
+
 ## 2. Objectives
 In this assignment, you will work with actual, measured climate data to better understand trends in regional and global climate, while simultaneously improving your analytical and graphic composition skills. 
 <br>
@@ -278,3 +280,5 @@ I've carried out this demonstration using Google Sheets, though the process woul
 To follow along with this demo, please make a copy of the demo station data by clicking this link: [https://bit.ly/CC2022-CDADemo](https://bit.ly/CC2022-CDADemo). Note that the demo uses a different link, but both point to the same file. 
 
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/2b5888b9-220b-49b7-a8e0-e9d470a2e6ff/public?autoplay=false&automute=false"></iframe>
+
+**If you are having issues playing the video, use [this link](https://echo360.ca/media/2b5888b9-220b-49b7-a8e0-e9d470a2e6ff/public) to view it in Echo360.**
