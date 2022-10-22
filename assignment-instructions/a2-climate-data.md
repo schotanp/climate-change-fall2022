@@ -23,7 +23,7 @@ Individual Assignment #2
 - [6. Assessment Rubric](#6-assessment-rubric)
 - [7. Making Quality Figures](#7-making-quality-figures)
 - [8. Calculating Anomalies](#8-calculating-anomalies)
-- [9. Demonstration](#9-demo)
+- [9. Demonstration and Tips](#9-demo)
 
 ## 1. Introduction
 As is the case with most science disciplines, analyzing and presenting data is a critical task in climate change science. The ultimate purpose of these activities is to construct and convey information as objectively and clearly as possible. To identify and characterize underlying physical processes, a great deal of data are collected as time series--which are unique from other sampled data in that the order of the observations is an important characteristic. Analyses of time series often focus on variables’ time-related correlation (e.g. trends, cycles, etc.), and results are commonly communicated to external audiences--whether scientific or otherwise—using graphic devices such as charts, graphs, and tables. 
@@ -282,3 +282,12 @@ To follow along with this demo, please make a copy of the demo station data by c
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/2b5888b9-220b-49b7-a8e0-e9d470a2e6ff/public?autoplay=false&automute=false"></iframe>
 
 **If you are having issues playing the video, use [this link](https://echo360.ca/media/2b5888b9-220b-49b7-a8e0-e9d470a2e6ff/public) to view it in Echo360.**
+
+### 9.1 Additional tips
+The *Useful Information* tab of the [demo data sheet](https://bit.ly/CC2022-CDADemo) contains a few useful spreadsheet equations for this assignment. I've pasted them below for reference: 
+
+|                                                       Operation                                                       |               example formula              |                                                                                                                                   Formula Explained                                                                                                                                   |
+|:---------------------------------------------------------------------------------------------------------------------:|:------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Take an average of range, using only those that meet a certain criteria                                               | =AVERAGEIF(B3:M3,">-500")                  | Average cells B3 to M3; include only values greater than -500                                                                                                                                                                                                                         |
+| Calculate an average of a range, only if a condition is met                                                           | =IF(SUM(B2:M2)>-400,AVERAGE(B2:M2),-999.9) | Calculate the average of cells B2:M2, only when the sum is greater than -400 (i.e. no -999.9s). Otherwise, return value of -999.9                                                                                                                                                     |
+| Calculate a two-tailed T-test, assuming that:  we're performing a two-tailed test unequal variances (heteroscedastic) | =T.TEST(P99:P138,P2:P98,2,3)               | Perform a t-test between cells P99 and P138 (i.e. last 40 years of data), and the preceding 97 years.  The function returns the associated p-value (likelihood that this difference could arise by chance alone).  So, if p-value is <0.05, the result is significant at alpha = 0.05 |
