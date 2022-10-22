@@ -139,7 +139,9 @@ A variety of datasets have been downloaded and prepared for use in this assignme
 ## 5. Tasks
 In your submission file, you will create a report with **3 figures, 1 table, and 2 question responses**. These can be inserted into the ```submission.md``` file that has already been created for you in your cloned repository. Your tasks for this assignment are described below. 
 <br>
-Before getting started, ensure that you've created the assignment repository, as described in the [Submission Details section](#3-submission-details-and-preparation).
+### Before getting started:
+- Ensure that you've created the assignment repository, as described in the [Submission Details section](#3-submission-details-and-preparation)
+- Read through the rest of the information on this page and check out the [demonstration](#9-demo) section at the end, which walks you through some of the first tasks and provides useful information about spreadsheet formulae. 
 ### Figure 1
 - Plot the annual temperature anomaly time series for your assigned station (in the /station_data/ subdirectory), along with the annual global anomaly temperature anomaly time series. Both series should be plotted as an anomaly from their respective 1951-1980 means (our chosen baseline period). Plot a trend for each time series, using a trend line or a moving average (you have freedom to choose either). 
 - Export your figure from Google Sheets or Excel as a PNG file and title it ```station-timeseries.png```
