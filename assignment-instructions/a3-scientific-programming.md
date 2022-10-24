@@ -14,6 +14,19 @@ Individual Assignment #2
 |**Date Due**|**2022-11-27**|
 |**Weight**|**5 points**|
 
+## Contents
+- [1. Introduction](#1-introduction)
+<!--
+- [2. Objectives](#2-objectives)
+- [3. Submission Details and Preparation](#3-submission-details-and-preparation)
+- [4. Materials and Data](#4-materials-and-data)
+- [5. Tasks](#5-tasks)
+- [6. Assessment Rubric](#6-assessment-rubric)
+- [7. Making Quality Figures](#7-making-quality-figures)
+- [8. Calculating Anomalies](#8-calculating-anomalies)
+- [9. Demonstration and Tips](#9-demo)
+-->
+
 ## Introduction
 Scientific computing--using computer algorithms to solve scientific problems--plays an important role in research for many modern scientific disciplines. By developing computer programs that collect, refine, analyze, and visualize experimental data, scientists are able to explore new scientific hypotheses and broaden their understanding of physical phenomena and relationships. Even in cases where datasets are small and relatively straightforward, using scripted, programming approaches can greatly improve the efficiency and reproducibility of scientific analysis.
 
