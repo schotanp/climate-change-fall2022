@@ -15,15 +15,15 @@ Individual Assignment #2
 |**Weight**|**5 points**|
 
 ## Contents
-- [1. Introduction](#1-introduction)
-- [2. Objectives](#2-objectives)
-- [3. Submission Details and Preparation](#3-submission-details-and-preparation)
-- [4. Materials and Data](#4-materials-and-data)
-- [5. Tasks](#5-tasks)
-- [6. Assessment Rubric](#6-assessment-rubric)
-- [7. Making Quality Figures](#7-making-quality-figures)
-- [8. Calculating Anomalies](#8-calculating-anomalies)
-- [9. Demonstration and Tips](#9-demo)
+1. [Introduction](#1-introduction)
+1. [Objectives](#2-objectives)
+1. [Submission Details and Preparation](#3-submission-details-and-preparation)
+1. [Materials and Data](#4-materials-and-data)
+1. [Tasks](#5-tasks)
+1. [Assessment Rubric](#6-assessment-rubric)
+1. [Making Quality Figures](#7-making-quality-figures)
+1. [Calculating Anomalies](#8-calculating-anomalies)
+1. [Demonstration and Tips](#9-demo)
 
 ## 1. Introduction
 As is the case with most science disciplines, analyzing and presenting data is a critical task in climate change science. The ultimate purpose of these activities is to construct and convey information as objectively and clearly as possible. To identify and characterize underlying physical processes, a great deal of data are collected as time series--which are unique from other sampled data in that the order of the observations is an important characteristic. Analyses of time series often focus on variables’ time-related correlation (e.g. trends, cycles, etc.), and results are commonly communicated to external audiences--whether scientific or otherwise—using graphic devices such as charts, graphs, and tables. 
