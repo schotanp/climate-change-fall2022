@@ -15,16 +15,16 @@ Individual Assignment #2
 |**Weight**|**5 points**|
 
 ## Contents
-- [1. Introduction](#1-introduction)
+1. [Introduction](#1-introduction)
 <!--
-- [2. Objectives](#2-objectives)
-- [3. Submission Details and Preparation](#3-submission-details-and-preparation)
-- [4. Materials and Data](#4-materials-and-data)
-- [5. Tasks](#5-tasks)
-- [6. Assessment Rubric](#6-assessment-rubric)
-- [7. Making Quality Figures](#7-making-quality-figures)
-- [8. Calculating Anomalies](#8-calculating-anomalies)
-- [9. Demonstration and Tips](#9-demo)
+1. [Objectives](#2-objectives)
+1. [Submission Details and Preparation](#3-submission-details-and-preparation)
+1. [Materials and Data](#4-materials-and-data)
+1. [Tasks](#5-tasks)
+1. [Assessment Rubric](#6-assessment-rubric)
+1. [Making Quality Figures](#7-making-quality-figures)
+1. [Calculating Anomalies](#8-calculating-anomalies)
+1. [Demonstration and Tips](#9-demo)
 -->
 
 ## Introduction
