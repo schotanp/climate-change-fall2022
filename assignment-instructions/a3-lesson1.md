@@ -2,7 +2,8 @@
 layout: default
 title: 01-Learn MATLAB
 nav_order: 3
-parent: Scientific Programming
+parent: 03 - Scientific Programming
+grand_parent: Assignment Instructions
 ---
 
 # Lesson 1: Learn MATLAB
@@ -257,4 +258,4 @@ You'll notice that the scripts and functions contain more than just the commands
 2. Run ```isleapyear``` from the command line a few times to check whether a few different years are leap years or not.
 
 ## 11. Proceed to the next lesson. 
-Phew. That was a lot. The good news is that you should now have a good sense of programming basics. Head to the [next lesson](lesson2) to learn how to apply these basics to create scripts and functions that will carry out analyses.
+Phew. That was a lot. The good news is that you should now have a good sense of programming basics. Head to the [next lesson](a3-lesson2) to learn how to apply these basics to create scripts and functions that will carry out analyses.

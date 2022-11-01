@@ -2,7 +2,8 @@
 layout: default
 title: Preparation
 nav_order: 2
-parent: Scientific Programming
+parent: 03 - Scientific Programming
+grand_parent: Assignment Instructions
 ---
 
 # Preparation
@@ -49,4 +50,4 @@ Before you can begin the assignment, the assignment pack materials need to be up
 - You should now see a folder called ```iSci3A12-CC-SciProgramming``` in your MATLAB Drive and in MATLAB Online. The folder should contain a number of files and subfolders.
 
 ## 3. Continue to the first lesson
-Now that you have MATLAB Online set up, continue to the [first lesson](lesson1).
+Now that you have MATLAB Online set up, continue to the [first lesson](a3-lesson1).

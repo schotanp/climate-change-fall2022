@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scientific Programming
+title: 03 - Scientific Programming
 nav_order: 5
 parent: Assignment Instructions
 has_children: true
