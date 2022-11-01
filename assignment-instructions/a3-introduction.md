@@ -13,9 +13,7 @@ Further to this point, it is very likely that as your scientific career progress
 
 The purpose of this workshop is to provide you with an introduction to the MATLAB software package and improve your knowledge of programming and scientific computing. In addition, you’ll have an opportunity to further explore climate change over the past decade through a (programmatic) re-visitation of the international weather station data used in your second assignment. 
 
-
 ## 1. Introductory presentation 
-
 
 **If you are having issues playing the video, use [this link](https://echo360.ca/media/d8446af8-9bdb-4071-bc67-ce829da1fd4b/public) to view it in Echo360.**
 
@@ -37,7 +35,7 @@ By the end of this workshop, you will be able to:
 - Use your programming knowledge and skills to create working scripts and functions. 
 - Apply your new skills and knowledge in other programming languages.
 
-## 3. Submission Details
+## 3. Submission details
 You will submit your deliverables via the GitHub repository that is created for you in GitHub Classroom when you click [this link](https://classroom.github.com/a/-RgKeLwc) and clone the repository. 
 <br>
 When complete, your respository will consist of the following items, which should all be created in the top level of the repository:
@@ -54,8 +52,13 @@ To get prepared, you should:
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 2. Read the rest of this instruction document and your new repository's README.md file, as well. 
 
-## 4. Assessment Rubric
-![Assessment rubric](a3-rubric.png)
+## 4. Due Dates and assessment Rubric
+|Date Assigned|2022-11-07|
+|:--|:--|
+|**Date Due**|**2022-11-27**|
+|**Weight**|**5 points**|
+
+![Assessment rubric](img/a3-rubric.png)
 
 ## 5. Get started 
 Ready to start? Head to the [preparation page](a3-preparation) and follow the instructions to get your software (MATLAB Online) and data ready.

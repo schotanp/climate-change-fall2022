@@ -25,7 +25,7 @@ In this lesson, you will build upon the [basics](lesson1) to create working scri
 ## 2. Edit and save a new function
 1. Save a copy of ```iSci_lucky_numbers.m``` in the same direcotory and name it ```my_lucky_numbers.m```:
   - With ```iSci_lucky_numbers``` open, click ```Save > Save As...```  
-![Save As Dialog Box](assets/img/saveas.png)
+![Save As Dialog Box](img/saveas.png)
   - Name the new file ```my_lucky_numbers.m```
 1. In the *function declaration* (the top line) in ```my_lucky_numbers.m```, change the function name from ```iSci_lucky_numbers``` to ```my_lucky_numbers```. Save your changes. 
   - **NOTE**: When you call a function, it will execute the *last saved version* of the file. As a result, you need to save your changes to a function before it will be reflected in the output.

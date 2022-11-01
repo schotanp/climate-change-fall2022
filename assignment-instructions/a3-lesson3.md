@@ -59,11 +59,11 @@ Full directions are already provided in the top comments of ```simple_stats```. 
 #### Breakpoints & Debugging
 - If you want to see what your function is doing while it's running (or view values of variables within the function), the best approach is to set a ***breakpoint*** in your function. When a breakpoint is set on a line, the function will pause at that point, and the Workspace will display all of the internal variables that are currently held within that function. 
 - You can set a breakpoint by clicking on the dash in the left margin of a line of your code. When a breakpoint is set, the dask turns into a red circle (see below).  
-![Function with a breakpoint as a red dot](assets/img/set-breakpoint.png)
+![Function with a breakpoint as a red dot](img/set-breakpoint.png)
 - Once the function hits the breakpoint, an arrow will appear in the margin to show the line where the function is paused. All internal variables will be visible in the workspace until the function completes or you select to ```Quit Debugging```. 
-![Function paused at a breakpoint](assets/img/breakpoint-paused.png)
+![Function paused at a breakpoint](img/breakpoint-paused.png)
 - You can control how the function continues using the debugging tools: 
-![Debugging buttons on toolbar](assets/img/debugging-options.png)
+![Debugging buttons on toolbar](img/debugging-options.png)
   - The ```Continue``` button will allow you to continue the function until the next breakpoint is encountered (you can also set it to pause on errors).
   - The ```Step``` button will advance the function by one line at a time.
   - The ```Step In``` and ```Step Out``` buttons are useful if the current line calls another function. If so, it will move into the function and pause there. 

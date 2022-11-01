@@ -15,7 +15,7 @@ In this lesson, you'll become familiar with the MATLAB interface, and learn the 
 <iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/4981e458-a44c-4287-bf42-0fc4210e7a30?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 
 ## 1. The MATLAB interface
-![MATLAB Online interface](assets/img/interface.png)
+![MATLAB Online interface](img/interface.png)
 By default, the MATLAB Online interface consists of following panels: 
 - The tool panels at the top (which include ```HOME```, ```PLOTS```, and ```APPS``` tabs.
 - The path selector, which will be set initially to ```/ > MATLAB DRIVE```. This indicates the directory where MATLAB is currently set to operate.
