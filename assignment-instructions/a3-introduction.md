@@ -20,12 +20,6 @@ The purpose of this workshop is to provide you with an introduction to the MATLA
 **[Direct link to video](https://echo360.ca/media/f045a2c1-4837-41ce-84ab-490b063bf360/public).**
 
 #### Slides
-<div style="position:relative;padding-top:56.25%;">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSItE1o0vgaNguRl_5PgD9KYvKqW-Q4o_zrHhMvD8lOhglo-7mpewrkub25wcgv7vHpHPOehBBGgSm3/embed?start=false&loop=true&delayms=60000" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
-[Download the slides](https://github.com/iSci-3A12/climate-change-fall2022/raw/main/media/iSci3A12-CC2022Fall-20221031-IntroToPodcasts.pdf) as a PDF.
-<br>
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSItE1o0vgaNguRl_5PgD9KYvKqW-Q4o_zrHhMvD8lOhglo-7mpewrkub25wcgv7vHpHPOehBBGgSm3/embed?start=false&loop=true&delayms=60000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## 2. Objectives
