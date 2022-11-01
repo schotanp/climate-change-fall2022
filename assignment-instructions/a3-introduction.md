@@ -15,9 +15,9 @@ The purpose of this workshop is to provide you with an introduction to the MATLA
 
 ## 1. Introductory presentation 
 
-<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/f045a2c1-4837-41ce-84ab-490b063bf360/public?autoplay=false&automute=false"></iframe>
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/cdbbe7fe-3157-43d8-b095-9171ff53ee5b/public?autoplay=false&automute=false"></iframe>
 
-**[Direct link to video](https://echo360.ca/media/f045a2c1-4837-41ce-84ab-490b063bf360/public).**
+**[Direct link to video](https://echo360.ca/media/cdbbe7fe-3157-43d8-b095-9171ff53ee5b/public).**
 
 #### Slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSItE1o0vgaNguRl_5PgD9KYvKqW-Q4o_zrHhMvD8lOhglo-7mpewrkub25wcgv7vHpHPOehBBGgSm3/embed?start=false&loop=true&delayms=60000" frameborder="0" width="800" height="479" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
