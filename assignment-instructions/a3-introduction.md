@@ -17,7 +17,7 @@ The purpose of this workshop is to provide you with an introduction to the MATLA
 
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/f045a2c1-4837-41ce-84ab-490b063bf360/public?autoplay=false&automute=false"></iframe>
 
-**If you are having issues playing the video, use [this link](https://echo360.ca/media/f045a2c1-4837-41ce-84ab-490b063bf360/public) to view it in Echo360.**
+**[Direct link to video](https://echo360.ca/media/f045a2c1-4837-41ce-84ab-490b063bf360/public).**
 
 #### Slides
 <!--
@@ -54,7 +54,8 @@ To get prepared, you should:
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 2. Read the rest of this instruction document and your new repository's README.md file, as well. 
 
-## 4. Due Dates and assessment Rubric
+## 4. Due dates and assessment rubric
+
 |Date Assigned|2022-11-07|
 |:--|:--|
 |**Date Due**|**2022-11-27**|
