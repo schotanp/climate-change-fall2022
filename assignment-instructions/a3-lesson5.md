@@ -56,8 +56,8 @@ function [] = plot_station_data_soln(station_name, ref_start, ref_end)
 
 ### 2.1 Hints
 - When you are ready to test your function, run each of the following lines in the Command Window separately to see if they create the desired outputs: 
-  - ```plot_station_data('Arhangelsk', 1961, 1990)```
-  - ```plot_station_data('Kanazawa', 1971, 2000)```
+  - ```plot_station_data('Almaty', 1961, 1990)```
+  - ```plot_station_data('Kargopol', 1971, 2000)```
   - ```plot_station_data('all', 1971, 2000)```
 
 ## 3. Deliverables
