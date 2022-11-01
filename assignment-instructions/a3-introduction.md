@@ -40,19 +40,13 @@ By the end of this workshop, you will be able to:
 ## 3. Submission details
 You will submit your deliverables via the GitHub repository that is created for you in GitHub Classroom when you click [this link](https://classroom.github.com/a/-RgKeLwc) and clone the repository. 
 <br>
-When complete, your respository will consist of the following items, which should all be created in the top level of the repository:
+When complete, your respository will consist of the following items, which should all be created in the top level directory of the repository:
 - A **function** named ```my_lucky_numbers.m``` (Created during [Lesson 2](lesson2))
 - A **figure** named ```lucky_numbers.png``` (Created during [Lesson 2](lesson2))
 - A **function** named ```simple_stats.m``` (Created during [Lesson 3](lesson3))
 - A **script** named ```process_adelaide.m``` (Created during [Lesson 4](lesson4))
 - A **function** named ```plot_station_data.m``` (Created during [Lesson 5](lesson5))
 - A **Markdown** document named ```reflection.md``` that provides a very short reflection on your experience
-
-To get prepared, you should: 
-1. Create your repository for this assignment at this url: [https://classroom.github.com/a/-RgKeLwc](https://classroom.github.com/a/-RgKeLwc).
-  - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a3-scientific-programming-<yourgithubname>```).
-  - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
-2. Read the rest of this instruction document and your new repository's README.md file, as well. 
 
 ## 4. Due dates and assessment rubric
 

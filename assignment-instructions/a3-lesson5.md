@@ -66,3 +66,6 @@ function [] = plot_station_data_soln(station_name, ref_start, ref_end)
 
 ## 4. (Oh no, not another) Reflection
 Don’t worry too much. This one is short and sweet. In 100 words or less, I would like to know what you thought of the workshop and the programming experience. *Was this a useful exercise? Do you see the benefits of taking a scripted approach to analysis? What was/wasn’t useful? Is there anything that you would have liked to have done differently?* Add your reflection to the ```reflection.md``` file in your assignment GitHub repository.
+
+## 5. Ready to submit? 
+Go to the [submission](a3-submission) page to prepare to submit your assignment. 

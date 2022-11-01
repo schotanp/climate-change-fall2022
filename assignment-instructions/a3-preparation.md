@@ -9,7 +9,13 @@ grand_parent: Assignment Instructions
 # Preparation
 Follow the steps below to prepare MATLAB Online and your get your data pack for this assignment.
 
-## 1. Activate MATLAB and open MATLAB Online
+## 1. Create your assignment GitHub repository
+Create your repository for this assignment at this url: [https://classroom.github.com/a/-RgKeLwc](https://classroom.github.com/a/-RgKeLwc).
+  - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a3-scientific-programming-<yourgithubname>```).
+  - This repository comes with data and files that you will use in your assignment (as a backup, see below). When it is time to submit your work, you will download your files from MATLAB Online and upload them to this repository (overwriting some of the files that are here already). 
+  - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
+
+## 2. Activate MATLAB and open MATLAB Online
 As a student at McMaster, you have access to MATLAB through McMaster's [web portal](https://www.mathworks.com/academia/tah-portal/mcmaster-university-31501097.html). From this portal, you can download the MATLAB installer to install it on your local desktop or laptop, or access and use MATLAB online--an completely online version of the software. For this assignment, we'll be using the online version. If you don't already have one, you'll be required to create a MathWorks account. 
 
 - Navigate to https://www.mathworks.com/products/matlab-online.html
@@ -32,21 +38,21 @@ As a student at McMaster, you have access to MATLAB through McMaster's [web port
 </tbody>
 </table>
 
-## 2. Add the assignment data pack to MATLAB Drive & MATLAB Online
+## 3. Add the assignment data to MATLAB Drive & MATLAB Online
 Before you can begin the assignment, the assignment pack materials need to be uploaded to your [MATLAB Drive](https://drive.matlab.com/files/). This will make these files usable in MATLAB Online. Two options for doing this have been outlined below--**you only need to do one**. 
 
-### Option 1: Using a MATLAB Drive share
+### Option 1 (recommended): Using a MATLAB Drive share
 - Click on [this link](https://drive.matlab.com/sharing/3d411629-c97a-490e-b7bb-479b87616cdb) to view the shared assignment data pack in MATLAB Drive. 
 - In the **Sharing Preview** page, select ```+ Add to my Files > Copy Folder```
 ![Matlab Drive sharing preview page](img/matlab-drive-copy-folder.png)
 - You should now see a folder called ```iSci3A12-CC-SciProgramming``` in your MATLAB Drive and in MATLAB Online. The folder should contain a number of files and subfolders.
 
-### Option 2: Upload files to MATLAB Drive
+### Option 2 (backup): Upload repository files to MATLAB Drive
 - Download the contents of your assignment GitHub repository as a zip file. 
 - On your local computer, extract the zip file to a folder named ```iSci3A12-CC-SciProgramming```.
 - Go to your [MATLAB Drive](https://drive.matlab.com/files/) select ```Upload > Folder```
 ![MATLAB Drive folder upload page](img/matlab-drive-upload-folder.png)
-- Choose to upload your extracted ```iSci3A12-CC-SciProgramming``` folder to MATLAB Drive.
+- Choose to upload your extracted ```iSci3A12-CC-SciProgramming``` folder to the top-level directory of your MATLAB Drive.
 - You should now see a folder called ```iSci3A12-CC-SciProgramming``` in your MATLAB Drive and in MATLAB Online. The folder should contain a number of files and subfolders.
 
 ## 3. Continue to the first lesson
