@@ -9,7 +9,7 @@ grand_parent: Assignment Instructions
 # Lesson 5: Analyzing Any or All Stations
 
 **Estimated time to complete: 30-90 minutes**  
-In this final exercise, you'll take what you learned in the [previous lesson](lesson4) to build a function (```plot_station_data.m```, which has been started for you) that can process any or all station data in your ```/Data``` folder. In completing this function, you will demonstrate the true value of using a scripted approach to create automated, repeatable, and extensible analyses.
+In this final exercise, you'll take what you learned in the [previous lesson](a3-lesson4) to build a function (```plot_station_data.m```, which has been started for you) that can process any or all station data in your ```/Data``` folder. In completing this function, you will demonstrate the true value of using a scripted approach to create automated, repeatable, and extensible analyses.
 
 By the end of this lesson, you will have created the following required deliverable: 
 - A function called ```plot_station_data.m```. 
