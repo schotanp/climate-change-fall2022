@@ -58,15 +58,22 @@ By the end of this workshop, you will be able to:
 - Use your programming knowledge and skills to create working scripts and functions. 
 - Apply your new skills and knowledge in other programming languages.
 
-## 3. Submission Details and Preparation
-You will submit your deliverables via the GitHub repository that is created for you in GitHub Classrooms when you click [this link](https://classroom.github.com/a/-RgKeLwc) and clone the repository. All materials you need for the assignment are provided in the cloned repository. To get started, you should: 
+## 3. Submission Details
+You will submit your deliverables via the GitHub repository that is created for you in GitHub Classroom when you click [this link](https://classroom.github.com/a/-RgKeLwc) and clone the repository. 
+<br>
+When complete, your respository will consist of the following items, which should all be created in the top level of the repository:
+- A **function** named ```my_lucky_numbers.m``` (Created during [Lesson 2](lesson2))
+- A **figure** named ```lucky_numbers.png``` (Created during [Lesson 2](lesson2))
+- A **function** named ```simple_stats.m``` (Created during [Lesson 3](lesson3))
+- A **script** named ```process_adelaide.m``` (Created during [Lesson 4](lesson4))
+- A **function** named ```plot_station_data.m``` (Created during [Lesson 5](lesson5))
+- A **Markdown** document named ```reflection.md``` that provides a very short reflection on your experience
+
+To get prepared, you should: 
 1. Create your repository for this assignment at this url: [https://classroom.github.com/a/-RgKeLwc](https://classroom.github.com/a/-RgKeLwc).
   - Follow the prompts to open your new repository (it will have a url: ```https://github.com/iSci-3A12/isci3a12-a3-scientific-programming-<yourgithubname>```).
   - Remember that you can find all your GitHub Classroom repostories at [https://github.com/settings/repositories](https://github.com/settings/repositories). 
 2. Read the rest of this instruction document and your new repository's README.md file, as well. 
-3. You will need to download some of your repository's files to work on them 
-4. Follow the steps outlined below in the [Tasks](#5-Tasks) section. 
-5. Following the due date, Jay will download the repositories to be marked. 
 
-https://github.com/iSci-3A12/isci3a12-a3-scientific-programming-maclibGIS
-[isci3a12-a3-scientific-programming-](https://github.com/iSci-3A12/isci3a12-a3-scientific-programming-maclibGIS)
+## 4. Assessment Rubric
+![Assessment rubric](a3-rubric.png)
