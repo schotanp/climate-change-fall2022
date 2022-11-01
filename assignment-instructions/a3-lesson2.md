@@ -14,7 +14,8 @@ In this lesson, you will build upon the [basics](lesson1) to create working scri
 - The figure ```my_lucky_numbers.png``` that you will create during your analyses
 
 ### Video
-<iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/083bc1cb-6d74-4c57-8209-9314408b2de6?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/11956340-6f56-49eb-a56d-b4598f55a18f/public?autoplay=false&automute=false"></iframe>
+[Direct link to video](https://echo360.ca/media/11956340-6f56-49eb-a56d-b4598f55a18f/public).
 
 ## 1. Setup
 1. Make sure your **Working Directory** is set to ```/ > MATLAB Drive > iSci3A12-SciProgramming```. This is where we will run our scripts and analyses. 

@@ -15,7 +15,8 @@ By the end of this lesson, you will have created the following required delivera
 - A script called ```process_adelaide.m```. 
 
 ### Video
-<iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/a349dc07-486a-4869-8e6b-ea7ac8d376e3?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/853400bb-4fa9-4b53-bd15-4c100c08b462/public?autoplay=false&automute=false"></iframe>
+[Direct link to video](https://echo360.ca/media/853400bb-4fa9-4b53-bd15-4c100c08b462/public).
 
 ## 1. Setup
 1. Make sure your **Working Directory** is set to ```/ > MATLAB Drive > iSci3A12-SciProgramming```. This is where we will run our scripts and analyses. 

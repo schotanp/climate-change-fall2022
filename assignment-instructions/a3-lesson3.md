@@ -13,7 +13,8 @@ In this mini-lesson, you're tasked with applying the skills you learned in the [
 - A function called ```simple_stats.m```. 
 
 ### Video
-<iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/08389c2c-8f3d-4de9-b604-bf7154154b02?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/7690271a-12eb-47a5-aa9c-8c1ed7d15335/public?autoplay=false&automute=false"></iframe>
+[Direct link to video](https://echo360.ca/media/7690271a-12eb-47a5-aa9c-8c1ed7d15335/public).
 
 ## 1. Setup
 1. Make sure your **Working Directory** is set to ```/ > MATLAB Drive > iSci3A12-SciProgramming```. This is where we will run our scripts and analyses. 

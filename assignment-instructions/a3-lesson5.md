@@ -15,7 +15,9 @@ By the end of this lesson, you will have created the following required delivera
 - A function called ```plot_station_data.m```. 
 
 ### Video
-<iframe width="853" height="480" src="https://web.microsoftstream.com/embed/video/1ce582d8-43ee-40b5-a5f9-54944952bad5?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+<iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/1a9461b9-6d33-48ca-bc8a-f0122149f796/public?autoplay=false&automute=false"></iframe>
+[Direct link to video](https://echo360.ca/media/1a9461b9-6d33-48ca-bc8a-f0122149f796/public).
+
 
 ## 1. Setup
 1. Make sure your **Working Directory** is set to ```/ > MATLAB Drive > iSci3A12-SciProgramming```. This is where we will run our scripts and analyses. 
