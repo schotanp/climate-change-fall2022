@@ -2,7 +2,7 @@
 layout: default
 title: 01-Learn MATLAB
 nav_order: 3
-parent: 03 - Scientific Programming
+parent: Scientific Programming
 ---
 
 # Lesson 1: Learn MATLAB
