@@ -153,7 +153,7 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 	- JAS =  average of: July, Aug, Sep
 	- OND =  average of: Oct, Nov, Dec
 	- Annual =  average of all months for the year
-- For each grouped period, calculate a two-sample t-test to test whether the mean temperature over the past 40 years of available data is significantly different than that from before. Use a significance value of 𝛼 = 0.05.
+- For each grouped period, calculate a two-sample t-test to test whether the mean temperatures (i.e. seasonal and annual) over the past 40 years of available data is significantly different than that from before. Use a significance value of 𝛼 = 0.05.
 - Your final table should be structured in the following manner: 
 	- 5 Columns: ```| JFM | AMJ | JAS | OND | Annual |```
 	- 3 Rows: 
@@ -161,7 +161,7 @@ In your submission file, you will create a report with **3 figures, 1 table, and
 		- Mean T, (in °C) for the years before the last 40 (there should be no overlap in years) 
 		- ΔT, (in °C), or differences in seasonal/annual means from the last 40 years and the previous years (i.e. row 1 – row 2)
 		- Significant differences should be bolded and indicated with a trailing plus sign (e.g. 0.331+)
-		- The table should have a descriptive title at the top, and a note at the bottom explaining: ***"+" denotes significant difference at significance level 𝛼=0.05***
+		- The table should have a descriptive title and caption at the top, and a note at the bottom explaining: ***"+" denotes significant difference at significance level 𝛼=0.05***
 
 ### Question 1: 
 Considering the results shown in Figure 1 and Table 1, summarize how temperatures have (or have not) changed at your assigned station. What are the limitations of your analysis? (150 words or less).
